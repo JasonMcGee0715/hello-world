@@ -1,3 +1,3 @@
 # hello-world
-Just another repository
-Also, I'm learning to moonwalk
+Just another repository.
+Also, I'm learning to moonwalk.
